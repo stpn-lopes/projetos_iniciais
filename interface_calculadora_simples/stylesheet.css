@@ -1,0 +1,41 @@
+body {
+    background:palegreen;
+     }
+ 
+ #header{
+   text-align: center;
+   border-radius:20px;
+   background: lightseagreen;
+   width:1300px;
+   height:200px;
+      
+ }
+ 
+ #campovalor1 {
+   background:white;
+   text-align: center;
+   border-radius:20px;
+   width:1300px;
+   height:150px;
+ }
+ 
+ #campovalor2 {
+   background:white;
+   text-align:center;
+   border-radius:20px;
+   width:1300px;
+   height:200px;
+ }
+ 
+ #camporesultado {
+   background:mediumturquoise;
+   text-align:center;
+   border-radius:20px;
+   width:1300px;
+   height:150px;
+   position: absoluted;
+   top: 400px;
+   
+ }
+ 
+ 
