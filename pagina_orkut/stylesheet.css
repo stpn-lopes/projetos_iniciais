@@ -1,0 +1,47 @@
+body {
+    background: lightblue;
+  }
+  
+  #header {
+    width: 1025px;
+    height: 40px;
+    background: dodgerblue;
+  }
+  
+  #menu {
+    width: 200px;
+    height: 800px;
+    background: white;
+  }
+  
+  #commentary {
+    width: 500px;
+    height: 100px;
+    background: white;
+    position: absolute;
+    left: 230px;
+    /* posiciona a 90px para a esquerda */
+    top: 85px;
+    /* posiciona a 70px para baixo */
+  }
+  
+  #content {
+    width: 500px;
+    height: 700px;
+    background: white;
+    position: absolute;
+    left: 230px;
+    /* posiciona a 230px para a esquerda */
+    top: 200px;
+    /* posiciona a 200px para baixo */
+  }
+  
+  #friends {
+    width: 350px;
+    height: 800px;
+    background: null;
+    position: absoluted;
+    left: 0px;
+    top: 0px;
+  }
+  
