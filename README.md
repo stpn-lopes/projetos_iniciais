@@ -6,7 +6,7 @@ Aqui contêm meus projetos criados no meu <a href="https://codepen.io/SlowStny">
  
  Estes arquivos são: 
  
-* <a href = "https://github.com/stpn-lopes/projetos_iniciais/tree/main/Formul%C3%A1rio_de_Cadastro>"Recriando a interface do Orkut</a>
+* <a href = "https://github.com/stpn-lopes/projetos_iniciais/tree/main/Formul%C3%A1rio_de_Cadastro">Recriando a interface do Orkut</a>
 * <a href = "https://github.com/stpn-lopes/projetos_iniciais/tree/main/interface_calculadora_simples">Calculadora Simples</a>
 * <a href = "https://github.com/stpn-lopes/projetos_iniciais/tree/main/Formul%C3%A1rio_de_Cadastro">Página de cadastro</a>
 
