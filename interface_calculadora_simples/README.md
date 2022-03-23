@@ -12,18 +12,18 @@
 </ul>
 
 ## Objetivo
-O foco é o aprendizado constante, tenho este projeto como um medidor de minha propria evolução, pois posso acompanhar o quanto meus conhecimentos tem sido ampliados e o quanto eu posso melhorar e acrescentar mais sempre que retornar nestes projetos. 
+O foco é o aprendizado constante, tenho este projeto como um medidor de minha propria evolução, pois posso acompanhar o quanto meus conhecimentos tem sido ampliados e o quanto eu posso melhorar e acrescentar um pouco mais sempre que retornar nestes projetos. 
 
 
 ## Sobre o projeto
-<p> Aqui eu tive como ideia principal criar uma interface, obtinha em mente criar uma estrutura de entrada de dados, processamento de dados e saída de dado. Em minha primeira tentativa, com o pouquissimo conhecimento que havia arrisquei criar essa interface em forma de uma calculadora fazendo uso dos elementos mais básicos que podia, pois eram os que eu até aquele momento compreendia. E aqui está o exemplo de como havia ficado: </p>
+<p> Aqui a ideia principal era criar uma interface, obtinha em mente criar uma estrutura que trasnpasse a entrada de dados,o processamento de dados e a saída de dados. Em minha primeira tentativa, com o pouquissimo conhecimento que havia arrisquei criar essa interface em forma de uma calculadora fazendo uso dos elementos mais básicos, pois eram os que eu até aquele momento compreendia. E aqui está o exemplo de como havia ficado: </p>
 
 <div align="center">
 <img src="https://github.com/stpn-lopes/projetos_iniciais/blob/main/interface_calculadora_simples/example.png?raw=true" alt="calculadora dividido em três retangulos: o primeiro obtêm o titulo e o menu dropdown; no segundo e terceiro, há os locais para os dados serem inseridos e também para a escolha da operação da conta; no ultimo fica o input para a saída de dados" width="95%" height="95%"></div><br>
  
 <p> Atualmente revisitando o código, com a intenção de aplicar os conhecimentos novos que tenho desenvolvido, pude notar algumas falhas de boas práticas e uma estrutura que visualmente não me agradou tanto. E algumas dessas falhas se deu em: </p>
 <ul>
-  <li> Uso excessivo de IDs no arquivo HTML, sendo que a maior parte poderia ser otimizado através do uso de class; </li>
+  <li> Uso excessivo de IDs no arquivo HTML, sendo que a maior parte poderia ser otimizado através do uso de classes; </li>
   <li> Uso de opções na lista suspensa fora da lógica do projeto desenvolvido; </li>
   <li> Uso excessivo de margin e padding no CSS; </li>
   <li> Os retângulos estavam a ocupar mais espaço do que deviam na página. </li>
@@ -50,7 +50,8 @@ O foco é o aprendizado constante, tenho este projeto como um medidor de minha p
 - [x] Usar menu dropdown no arquivo HTML
 - [x] Fazer uso de input
 - [x] Fazer uso de button 
-- [x] personalizar os inputs e buttons com CSS
+- [x] Personalizar os inputs e buttons com CSS
+- [ ] Responsividade
 - [ ] Introdução explicativa do projeto 
 - [ ] Trazer efeitos com o uso de CSS em alguns elementos
 - [ ] Torna-lo usável com JavaScript
