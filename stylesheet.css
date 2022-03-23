@@ -1,0 +1,74 @@
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: black;
+  margin: auto;
+}
+
+
+body {
+  background:palegreen;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 200vh;
+  height: 70vh;
+}
+ 
+#header{
+  width: 50%;
+  height:200px;
+  display: flex;
+  justify-content: center;      
+  text-align: center;
+  color: black;
+  font: 35px bold;
+}
+
+.section {
+  display:flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  width:70%;
+  height:250px;
+}
+
+.values{
+  align-self: center;
+}
+
+.select {
+  width: 50px;
+  height: 50px;
+  align-self: center; 
+  font-family: 'Gill Sans', 'Gill Sans MT';
+  font: 16px bold;
+  text-align: center;
+  color: black;
+  border-radius: 100%;
+  background-color: rgba(0, 0, 0, 0.37);
+}
+
+button {
+  border-radius: 50%;
+  width: 90px;
+  height: 90px;
+  align-self: center;
+  justify-self: center;
+  color: white;
+  background-color: black;
+  font: 20px bold;
+}
+
+.input {
+  background:rgb(255, 255, 255);
+  color: black;
+  font: 15px bold;
+  text-align:center;
+  border-radius:50%;
+  position: absoluted;
+  width: 150px;
+  height: 150px;
+}

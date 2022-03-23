@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+
+<!-- Aqui criaremos o design de uma calculadora centrada na escolha inicial do usuário de qual operação quer realizar com html e css puro, para quando obtiver conhecimento suficiente, tornar-la dinamica e interativa com o JS, a ideia é ir aprimorando conforme vou aprimorando meus conhecimentos--> 
+
+<html lang="pt-br">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="stylesheet.css" rel="stylesheet" type="text/css" media="screen"/>
+        <title>Calculadora Simples</title>
+    </head>
+
+
+    <body> 
+        <!-- iniciaremos com a parte principal que é onde será realizada a escolha da operação através de menu dropbox-->
+        <div id="header">
+            <h1>Calculadora</h1>
+        </div>
+        <br>
+        <!--primeiro campo de entrada de dados para se inserir o valor-->
+        <div class="section">    
+            <div class="values">
+                <input class="input" type="number" placeholder="digite o valor aqui">
+            </div>
+            <select class="select"> 
+                <option class="select" value="soma">+</option>
+                <option class="select" value="subtração" >-</option>
+                <option class="select" value="divisão">/</option>
+                <option class="select" value="multiplicação">x</option>
+            </select>
+            <!--segundo campo de entrada de dados para se inserir o valor e logo abaixo o butão para realizar o calculo-->
+            <div class= "values">
+                <input class="input" type="number" placeholder="digite o valor aqui">
+            </div>
+            <button> calcular </button>
+            <!--primeiro campo de saida de dados para se mostrar o valor do resultado da operação-->
+            <div class="values"> 
+                <input class="input"  placeholder="a calcular ..." disabled="">
+            </div>
+        </div>
+     </body>
+     
+
+     
+</html>
